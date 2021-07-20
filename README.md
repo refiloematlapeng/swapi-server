@@ -17,6 +17,11 @@ To launch the server at https://localhost:5000 , execute the following in the te
 - yarn install
 - yarn dev
 #
+
+## Live view
+
+https://0z5gd.sse.codesandbox.io/
+
 ## Project Instructions
 
 1. You should develop an Apollo GraphQL API
